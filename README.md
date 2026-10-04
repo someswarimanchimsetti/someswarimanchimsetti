@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Someswari Manchimsetti 👋
+ECE Graduate | Embedded C | C/C++ | Linux | Microcontrollers | Embedded Linux
 
-<!--
-**someswarimanchimsetti/someswarimanchimsetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Electronics and Communication Engineering graduate interested in Embedded Systems, Firmware Development, and Embedded Linux.
 
-Here are some ideas to get you started:
+I enjoy working with C programming, data structures, Linux, microcontrollers, and hardware-oriented projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills
+Programming: C, C++
+Embedded: Microcontrollers, Embedded C
+Operating Systems: Linux
+Concepts: Data Structures, Pointers, File Handling, Dynamic Memory Allocation
+Tools: GCC, Make, Git, GitHub, VS Code
+Currently Learning: Microcontrollers and Embedded Linux
+💻 Projects
+Inverted Search
+
+A C-based inverted indexing system that creates and manages a searchable database of words across multiple text files.
+
+Technologies: C, Data Structures, Linked Lists, Hashing, File Handling, Linux
+
+🔗 View Project
+
+🎯 Career Focus
+
+I am looking for opportunities in:
+
+Embedded Software Development
+Firmware Development
+Embedded C/C++
+Embedded Linux
+Microcontroller-based Development
+📚 Coding Profiles
+LinkedIn
+LeetCode
+HackerRank
+
+⭐ Thanks for visiting my profile!
