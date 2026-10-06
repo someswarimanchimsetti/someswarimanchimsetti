@@ -31,7 +31,6 @@ Embedded C/C++
 Embedded Linux
 Microcontroller-based Development
 📚 Coding Profiles
-LinkedIn
 LeetCode
 HackerRank
 
